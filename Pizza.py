@@ -25,7 +25,8 @@ desszertek = {
     'tiramisu': 600,
     'csokoladetorta': 550,
     'fagylalt': 350,
-    'piskotarolad': 500
+    'piskotarolad': 500,
+    'nemkerek': 0
 }
 
 szoszok = {
